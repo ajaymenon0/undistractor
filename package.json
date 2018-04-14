@@ -1,0 +1,19 @@
+{
+  "name": "undistractor",
+  "version": "1.0.0",
+  "description": "An app that lets you focus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaymenon0/undistractor.git"
+  },
+  "author": "Dinosaras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaymenon0/undistractor/issues"
+  },
+  "homepage": "https://github.com/ajaymenon0/undistractor#readme"
+}
